@@ -1,0 +1,3 @@
+Sample	Total	Assigned	Unassigned_Unmapped	Unassigned_Read_Type	Unassigned_Singleton	Unassigned_MappingQuality	Unassigned_Chimera	Unassigned_FragmentLength	Unassigned_Duplicate	Unassigned_MultiMapping	Unassigned_Secondary	Unassigned_NonSplit	Unassigned_NoFeatures	Unassigned_Overlapping_Length	Unassigned_Ambiguity	percent_assigned
+GSM461177	23824074	16435139	0	0	0	6436046	0	0	0	0	0	0	484034	0	468855	68.98542625413269
+GSM461180	24095274	17619499	0	0	0	5559428	0	0	0	0	0	0	398971	0	517376	73.12429400055795

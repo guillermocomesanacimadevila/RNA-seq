@@ -1,0 +1,3 @@
+Sample	Assigned	Unassigned: Mapping Quality	Unassigned: No Features	Unassigned: Ambiguity
+GSM461177	16435139.0	6436046.0	484034.0	468855.0
+GSM461180	17619499.0	5559428.0	398971.0	517376.0

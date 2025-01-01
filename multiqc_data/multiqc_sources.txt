@@ -1,0 +1,3 @@
+Module	Section	Sample Name	Source
+featureCounts	all_sections	GSM461177	/Users/guillermocomesanacimadevila/rna_seq/counts/GSM461177.counts.summary
+featureCounts	all_sections	GSM461180	/Users/guillermocomesanacimadevila/rna_seq/counts/GSM461180.counts.summary
