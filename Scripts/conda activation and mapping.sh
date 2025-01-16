@@ -1,8 +1,5 @@
 (base) guillermocomesanacimadevila@MacBook-Pro-de-Guille rna_seq % conda config -add channels biconda
-usage: conda [-h] [-v] [--no-plugins] [-V] COMMAND ...
-conda: error: unrecognized arguments: -add channels biconda
 (base) guillermocomesanacimadevila@MacBook-Pro-de-Guille rna_seq % conda config --add channels bioconda
-
 (base) guillermocomesanacimadevila@MacBook-Pro-de-Guille rna_seq % conda config --add channels conda-forge
 (base) guillermocomesanacimadevila@MacBook-Pro-de-Guille rna_seq % conda config --show channels
 channels:
